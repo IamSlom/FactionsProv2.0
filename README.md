@@ -1,4 +1,4 @@
-** Factions Plugin But More better **
+**Factions Plugin But More better**
 
 # It's My Own Version, It's more better
 
