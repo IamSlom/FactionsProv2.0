@@ -1,6 +1,6 @@
 **Factions Plugin But More better**
 
-# It's My Own Version, It's more better
+# Works with Genysis (pm2) 
 
 
 - Features:
@@ -9,3 +9,4 @@
 - Clan Homes
 - You Need PureChat with Vars support to display the Faction!
 - Supports 0.14.3 & 0.15.10 (Genysis)
+- for Download click Here: https://raw.githubusercontent.com/IamSlom/FactionsProv2.0/main/FactionsPro.phar
