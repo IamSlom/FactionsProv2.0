@@ -8,3 +8,4 @@
 - Clan Allie
 - Clan Homes
 - You Need PureChat with Vars support to display the Faction!
+- Supports 0.14.3 & 0.15.10 (Genysis)
